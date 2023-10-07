@@ -1,0 +1,9 @@
+gspread
+matplotlib
+notebook
+numpy
+oauth2client
+pandas
+plotly
+scikit-learn
+tensorflow
